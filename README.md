@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @666Fernando666
 - 👀 I’m interested in python
-- 🌱 I’m currently learning flask dash apache
+- 🌱 I’m currently learning flask dash gunicorn
 - 💞️ I’m looking to collaborate on web applications
 - 📫 How to reach me: fersoler666@gmail.com
 
